@@ -33,6 +33,8 @@ you need to
 - press 	Ctrl + U 	for 	Ù, Û, Ü, ù, û, ü;
 then click Add button.
 
+Video: https://www.youtube.com/watch?v=3ztDLnbXJzw
+
 ATTENTION Again, to type out the CAPITAL letters, you muct ensure the CapsLock on your keyboard is on.
 
 However, I have not included some sons, (this is the french word which means phonetic transcriptions) like ɑ̃, ŋ, ɥ, etc.
