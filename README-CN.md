@@ -31,6 +31,8 @@
 - 按 	Ctrl + O 	当输入 	Ô, Œ, ô, œ;
 - 按 	Ctrl + U 	当输入 	Ù, Û, Ü, ù, û, ü;
   然后点击Add按钮。
+  
+视频：https://www.youtube.com/watch?v=3ztDLnbXJzw
 
 再次注意！要打出上述大写字母时，请确认键盘上的大写锁定CapsLock是打开的。
 
