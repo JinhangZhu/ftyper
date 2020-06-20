@@ -12,7 +12,7 @@ This is a program used for typing French and designed for those who are using En
 
 ## Usage
 
-The first step is to run the FTyper1.exe.
+The first step is to run the FTyper1.exe. (downloaded from the [release page](https://github.com/JinhangZhu/ftyper/releases/))
 
 Then you can type your own text after deleting the words which try to remind you of this sentence again.
 
