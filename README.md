@@ -21,14 +21,16 @@ You can type after the last letter or before the first letter or insert text amo
 You can also adjust the font size to your taste by moving the scroll button.
 
 ATTENTION, when you need to type the letter with accent, including the letters below:
+
 À, Â, Ç, È, É, Ê, Ë, Î, Ï, Ô, Œ, Ù, Û, Ü, à, â, ç, è, é, ê, ë, î, ï, ô, œ, ù, û, ü,
+
 you need to 
-press 	Ctrl + A 	for 	À, Â, à, à;
-press 	Ctrl + C 	for 	Ç, ç;
-press 	Ctrl + E	for 	È, É, Ê, Ë, è, é, ê, ë;
-press 	Ctrl + I  	for 	Î, Ï, î, ï;
-press 	Ctrl + O 	for 	Ô, Œ, ô, œ;
-press 	Ctrl + U 	for 	Ù, Û, Ü, ù, û, ü;
+- press 	Ctrl + A 	for 	À, Â, à, à;
+- press 	Ctrl + C 	for 	Ç, ç;
+- press 	Ctrl + E	for 	È, É, Ê, Ë, è, é, ê, ë;
+- press 	Ctrl + I  	for 	Î, Ï, î, ï;
+- press 	Ctrl + O 	for 	Ô, Œ, ô, œ;
+- press 	Ctrl + U 	for 	Ù, Û, Ü, ù, û, ü;
 then click Add button.
 
 ATTENTION Again, to type out the CAPITAL letters, you muct ensure the CapsLock on your keyboard is on.
