@@ -12,7 +12,7 @@
 
 ## 使用
 
-第一步是运行FTyper1.exe.
+第一步是运行FTyper1.exe (从[release页](https://github.com/JinhangZhu/ftyper/releases/)下载)。
 
 然后你可以在删除一些提示的话后开始输入你的文本。
 
